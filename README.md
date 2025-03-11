@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 I’m currently learning Vue.js, Next.js, Typescript, Tailwind, and Laravel<br>💬 Born in 2003, Malaysian, Web Development & DevOps
+🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 I’m currently learning Vue.js, Next.js, Typescript, Tailwind, and Laravel<br>💬 Born in 2003, Malaysian, Fullstack Web Developer & Wish to be DevOps
 
 
 ## 🌐 Socials:
