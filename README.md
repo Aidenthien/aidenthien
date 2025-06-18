@@ -22,8 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aidenthien&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aidenthien&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/aidenthien/count.svg" />
