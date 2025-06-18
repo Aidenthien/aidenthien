@@ -12,6 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aidenthien&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aidenthien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub Stats Graph:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidenthien&theme=radical&hide_border=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aidenthien&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
