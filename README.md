@@ -1,3 +1,10 @@
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/aidenthien/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
 # 💫 About Me:
 🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 Actively learning Vue.js, Typescript, Tailwind, Laravel, GoLang, Three.js and more!<br>💬 Born in 2003, Malaysian, Fullstack Web Developer & Road to learn DevOps and LLM<br>⚡ Just a Normal Developer
 
