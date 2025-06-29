@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 Actively learning Vue.js, Typescript, Tailwind, Laravel, GoLang, Three.js and more!<br>💬 Born in 2003, Malaysian, Fullstack Web Developer & Road to learn DevOps and LLM<br>⚡ Just a Normal Developer
 
-<!-- 🌐 Socials -->
+## 🌐 Socials:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aidenthien.vercel.app/)
@@ -12,7 +12,7 @@
 
 </div>
 
-<!-- 💻 Tech Stack -->
+# 💻 Tech Stack:
 <div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -75,7 +75,7 @@
 
 </div>
 
-<!-- 📊 GitHub Stats -->
+# 📊 GitHub Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=aidenthien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -84,34 +84,31 @@
 
 </div>
 
-<!-- 📊 GitHub Stats Graph -->
+# 📊 GitHub Stats Graph:
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidenthien&theme=radical&hide_border=true)
 
 </div>
 
-<!-- 🏆 GitHub Trophies -->
+## 🏆 GitHub Trophies
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=aidenthien&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
-<!-- 🔝 Top Contributed Repo -->
+### 🔝 Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=aidenthien&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 </div>
 
-<!-- Visitor Counter -->
-<p align="center">
+---
+<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/aidenthien/count.svg" />
 </p>
 
-<!-- Animated GIF (Optional) -->
-<div align="center">
-  <img src="stats.gif" width="90%" />
-</div>
+<img src="stats.gif" width="90%"><br/><br/>
