@@ -104,11 +104,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aidenthien&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 </div>
-
----
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/aidenthien/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
