@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 Actively learning Vue.js, Typescript, Tailwind, Laravel, GoLang, Three.js and more!<br>💬 Born in 2003, Malaysian, Fullstack Web Developer & Road to learn DevOps and LLM<br>⚡ Just a Normal Developer
+🔭 APU student pursuing a Bachelor Degree in Software Engineering<br>🌱 Actively learning Vue.js, DevOps, Three.js, GoLang and more!<br>💬 Born in 2003, Malaysian, Fullstack Web Developer & Road to learn DevOps and LLM<br>⚡ Just a Normal Developer
 
 ## 🌐 Socials:
 <div align="center">
